@@ -1,6 +1,6 @@
 body {
    background: #f4f1e5;
-   background-image: url("https://images6.alphacoders.com/427/427408.jpg");
+   /*background-image: url("https://images6.alphacoders.com/427/427408.jpg");*/
    background-size:;
    color: #544738;
    font-family: helvetica, sans-serif;
@@ -23,17 +23,20 @@ body {
 	float:left;
 	max-width: 33%;
 	max-height: 33%;
+	box-shadow: 10px 10px 5px #888888;
 }
 .button2{
 	float:left;
 	max-width: 33%;
 	max-height: 33%;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 .button3{
 	float:left;
 	max-width: 33%;
 	max-height: 33%;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 .socialMediaButton{
