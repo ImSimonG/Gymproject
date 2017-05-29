@@ -38,6 +38,11 @@ body {
 	max-height: 33%;
 	box-shadow: 10px 10px 5px #888888;
 }
+.text{
+	
+	text-indent: 40px;
+
+}
 
 .socialMediaButton{
 	color:#FFFFFF;
@@ -89,7 +94,7 @@ li a:hover {
 }
 @font-face{
 	font-family: 3Dumb;
-	src: url(Gymproject/3Dumb/3Dumb.ttf) format("truetype");
+	src: url(3Dumb/3Dumb.ttf) format("truetype");
 }
 /*.left a:hover {
 	-webkit-transform: rotate(-10deg) scale(1.2);
